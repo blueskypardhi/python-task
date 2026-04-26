@@ -1,0 +1,4 @@
+Stock Name: AAPL
+Quantity: 12
+Price: 180
+Total Value: 2160
